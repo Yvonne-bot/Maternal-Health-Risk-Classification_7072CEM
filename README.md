@@ -141,5 +141,5 @@ Maternal-Health-Risk-Classification
 ## Author
 
 **Yvonne Musinguzi**  
-MSc Data Science and Machine Learning  
+MSc Data Science
 Coventry University  
